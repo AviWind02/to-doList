@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">COMP3025-F2022-Week9</string>
+    <string name="app_name">To-do List</string>
     <string name="title_text">Title</string>
     <string name="subtitle_text">Body</string>
     <string name="dialog_title">Add to-do list Item </string>

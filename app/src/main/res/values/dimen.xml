@@ -4,5 +4,5 @@
     <dimen name="margin_medium">10dp</dimen>
     <dimen name="CellMargin">5dp</dimen>
     <dimen name="CellTextSize">24sp</dimen>
-    <dimen name="dialog_height">120dp</dimen>
+    <dimen name="dialog_height">150dp</dimen>
 </resources>
